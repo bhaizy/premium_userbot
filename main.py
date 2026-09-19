@@ -80,7 +80,7 @@ async def main():
             f"├─ **Prefixes:** {' '.join(config.PREFIXES)}\n"
             f"├─ **Modules:** {loaded_count}\n"
             f"├─ **Database:** {'Connected' if config.MONGO_URL else 'In-Memory'}\n"
-            f"└─ **Yuki API:** Active 🎵\n\n"
+            f"└─ **STD API:** Active 🎵\n\n"
             f"Type .help in any chat to view commands!"
         )
     except Exception as e:
