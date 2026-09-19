@@ -1,0 +1,12 @@
+﻿pyrofork>=2.3.40
+tgcrypto>=1.2.5
+pytgcalls>=3.0.0.dev24
+yt-dlp>=2024.08.06
+aiohttp>=3.9.5
+motor>=3.5.1
+dnspython>=2.6.1
+psutil>=6.0.0
+python-dotenv>=1.0.1
+Pillow>=10.4.0
+ffmpeg-python>=0.2.0
+aiofiles>=24.1.0
