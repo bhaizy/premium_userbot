@@ -1,6 +1,9 @@
-﻿# 亗 Premium Telegram Userbot v2.0 亗
+ # 亗 Premium Telegram Userbot v2.0 亗
 
 A high-performance, modular Telegram Userbot powered by **Pyrofork**, **PyTgCalls**, **Yuki API** (for YouTube audio extraction without IP blocks), and **MongoDB Atlas** with in-memory zero-latency caching.
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bhaizy/userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 ---
 
